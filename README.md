@@ -1,6 +1,6 @@
 **DESCRIPTION**
 
-I decided to immortalize YouTubeReborn as RebornAgain: a sideloadable app that even unjailbroken users could manage to install on their phones to take advantage of all of the unique YouTube Reborn features that made the tweak so popular with even more additions to your YouTube experience.
+Reddit user [u/ApprehensiveWill1](https://www.reddit.com/user/ApprehensiveWill1/) decided to immortalize YouTubeReborn as RebornAgain: a sideloadable app that even unjailbroken users could manage to install on their phones to take advantage of all of the unique YouTube Reborn features that made the tweak so popular with even more additions to your YouTube experience.
 
 RebornAgain is packed with the tweaks iSponsorBlock, YTUHD, uYou, YTClassicVideoQuality, YTDisableUglySuggestions, YouAreThere, and YouPiP straight out the box for an enhanced display of features from all of the most revered developers behind all of your favorite tweaks.
 
