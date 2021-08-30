@@ -1,3 +1,10 @@
+# About the Project
+This project is aimed at cataloging app sources for AltStore and will be updated as per my needs. If anyone needs to use it, you may raise a pull request. It may not be maintained actively.
+
+# About the included apps as of 30-08-2021:
+
+## RebornAgain for Youtube(uYou+ + other Tweaks)
+
 **DESCRIPTION**
 
 Reddit user [u/ApprehensiveWill1](https://www.reddit.com/user/ApprehensiveWill1/) decided to immortalize YouTubeReborn as RebornAgain: a sideloadable app that even unjailbroken users could manage to install on their phones to take advantage of all of the unique YouTube Reborn features that made the tweak so popular with even more additions to your YouTube experience.
@@ -29,6 +36,7 @@ RebornAgain is packed with the tweaks iSponsorBlock, YTUHD, uYou, YTClassicVideo
 - Credit to MiRO92 for uYou 1.5
 - Credit to CrazyMind90 for YTDisableUglySuggestions 1.3
 - Credit to Al4ise for Azule on iOS
+- Credit to [u/ApprehensiveWill1](https://www.reddit.com/user/ApprehensiveWill1/)
 - Credit to testers u/el_zari, u/Accomplished_Ebb4493, u/marchino123, u/iVesuvian, and u/Ruptito
 - Sideload with AltStore and enjoy the app everyone.
 
