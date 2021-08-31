@@ -1,6 +1,11 @@
 # About the Project
 This project is aimed at cataloging app sources for AltStore and will be updated as per my needs. If anyone needs to use it, you may raise a pull request. It may not be maintained actively.
 
+Use this button on a device with AltStore installed
+<a href="altstore://source?URL=https://altcatalog.meghrathod.tech/apps.json">
+    <img src="./AltStore-Add%20This%20Source-brightgreen.svg">
+</a>
+
 # About the included apps as of 30-08-2021:
 
 ## RebornAgain for Youtube(uYou+ + other Tweaks)
