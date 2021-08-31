@@ -1,7 +1,10 @@
 # About the Project
+
 This project is aimed at cataloging app sources for AltStore and will be updated as per my needs. If anyone needs to use it, you may raise a pull request. It may not be maintained actively.
 
-Use this button on a device with AltStore installed
+Use this button on a device with AltStore installed:
+<br>
+<br>
 <a href="altstore://source?URL=https://altcatalog.meghrathod.tech/apps.json">
     <img src="./AltStore-Add%20This%20Source-brightgreen.svg">
 </a>
@@ -35,6 +38,7 @@ RebornAgain is packed with the tweaks iSponsorBlock, YTUHD, uYou, YTClassicVideo
 - Cleaner Video Suggestions and Even More
   
 **CREDITS**
+
 - Credit to SarahH12099 for the original YouTubeReborn 2.1.3.3
 - Credit to PoomSmart for YTUHD 1.1.0, YTClassicVideoQuality 1.0.1, YouAreThere 1.0.1 and YouPiP 1.5.2
 - Credit to Galactic-Dev for the original iSponsorBlock and Luewii for his fork
