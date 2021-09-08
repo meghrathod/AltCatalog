@@ -3,8 +3,8 @@
         {
             "beta": false,
             "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "MiRo92",
-            "downloadURL": "https://github.com/meghrathod/AltCatalog/releases/download/release/RebornAgain.1.6.1.ipa",
+            "developerName": "ApprehensiveWill1",
+            "downloadURL": "https://github.com/meghrathod/AltCatalog/releases/download/v1.7/RebornAgain.1.7.ipa",
             "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/uYou/icon.png",
             "localizedDescription": "u/ApprehensiveWill1 on Reddit, decided to immortalize YouTubeReborn as RebornAgain: a sideloadable app that even unjailbroken users could manage to install on their phones to take advantage of all of the unique YouTube Reborn features that made the tweak so popular with even more additions to your YouTube experience.\n\nRebornAgain is packed with the tweaks iSponsorBlock, YTUHD, uYou, YTClassicVideoQuality, YTDisableUglySuggestions, YouAreThere, and YouPiP straight out the box for an enhanced display of features from all of the most revered developers behind all of your favorite tweaks.",
             "name": "RebornAgain",
@@ -15,12 +15,12 @@
                 "https://miro92.com/repo/depictions/com.miro.uyou/screenshots/4.jpg",
                 "https://miro92.com/repo/depictions/com.miro.uyou/screenshots/5.jpg"
             ],
-            "size": 113590592,
+            "size": 113696768,
             "subtitle": "RebornAgain for YouTube",
             "tintColor": "1E47D0",
-            "version": "16.34.3",
-            "versionDate": "2021-09-02",
-            "versionDescription": "• Updated to uYou (1.6.1)\n• Added uYouLocal to Shorts\n• Removed YouPIP\n• Small bug fixes",
+            "version": "16.35.4",
+            "versionDate": "2021-09-08",
+            "versionDescription": "Updated to uYou (1.7)\n Updated app to YouTube (13.35.4)\n Added Donation button\n Added Custom Double Tap To Seek Time\n Added Long press on post image/gif to save it",
             "permissions": [
                 {
                     "type": "photos",
