@@ -15,12 +15,12 @@
                 "https://miro92.com/repo/depictions/com.miro.uyou/screenshots/4.jpg",
                 "https://miro92.com/repo/depictions/com.miro.uyou/screenshots/5.jpg"
             ],
-            "size": 113696768,
+            "size": 115054383,
             "subtitle": "RebornAgain for YouTube",
             "tintColor": "1E47D0",
-            "version": "16.35.4",
-            "versionDate": "2021-09-08",
-            "versionDescription": "Updated to uYou (1.7)\n Updated app to YouTube (13.35.4)\n Added Donation button\n Added Custom Double Tap To Seek Time\n Added Long press on post image/gif to save it",
+            "version": "16.38.2",
+            "versionDate": "2021-09-27",
+            "versionDescription": "Updated to uYou (2.0)\n Updated app to YouTube (16.38.2)\n",
             "permissions": [
                 {
                     "type": "photos",
@@ -35,6 +35,47 @@
                     "usageDescription": "YouTube can continue playing audio while in the background."
                 }
             ]
+        },
+        {
+            "name": "unc0ver",
+            "bundleIdentifier": "science.xnu.undecimus",
+            "developerName": "Pwn20wnd",
+            "subtitle": "The most advanced jailbreak tool.",
+            "version": "6.2.0",
+            "versionDate": "2021-07-17T21:35:42Z",
+            "versionDescription": "# v6.2.0 Release\n\n- Major stability and reliability improvements to iOS 14 support",
+            "downloadURL": "https://unc0ver.dev/downloads/6.2.0/15e18e455ca3971433261443a42355ee883a2092/unc0ver_Release_6.2.0.ipa",
+            "localizedDescription": "unc0ver is an advanced jailbreaking tool for iOS devices. Jailbreaking with unc0ver unlocks the true power of your iDevice. Customize the appearance of your device, gain full control over how your device operates, obtain access to hidden features of iOS, and more.\n\nCompatibility:\n* unc0ver supports iOS 11.0 through to iOS 14.3 (Excluding 13.5.1 and 13.3.1)\n\nStability:\n* Utilizing the latest stable APT and Mobile Substrate, stability is guaranteed.\n\nSecurity:\n* Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.",
+            "iconURL": "https://i.imgur.com/5aehDxj.png",
+            "tintColor": "#101216",
+            "size": 53758718,
+            "screenshotURLs": [
+                "https://i.imgur.com/ItMaRRV.png",
+                "https://i.imgur.com/bjzyqpY.png",
+                "https://i.imgur.com/3TMGkaO.png",
+                "https://i.imgur.com/gTYfncm.png"
+            ],
+            "absoluteVersion": "6.2.0"
+        },
+        {
+            "name": "Taurine",
+            "bundleIdentifier": "com.odysseyteam.taurine",
+            "developerName": "Odyssey Team",
+            "subtitle": "Time to get amped.",
+            "version": "1.1.1",
+            "versionDate": "2021-09-04T07:35:05Z",
+            "versionDescription": "# 1.1.1\n\n- Fixes issues with injection into cfprefsd\r\n- Re-enables tweak injection into cfprefsd\r\n- Reduces memory usage and improves performance system-wide\r\n",
+            "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.1/Taurine-1.1.1.ipa",
+            "localizedDescription": "Taurine is an iOS 14.0-14.3 jailbreak, utilizing Procursus and Libhooker.",
+            "iconURL": "https://taurine.app/assets/images/icon.png",
+            "tintColor": "#F65656",
+            "size": 33132976,
+            "screenshotURLs": [
+                "https://taurine.app/assets/images/ss-1.png",
+                "https://taurine.app/assets/images/ss-2.png",
+                "https://taurine.app/assets/images/ss-3.png"
+            ],
+            "absoluteVersion": "1.1.1"
         }
     ],
     "identifier": "tech.meghrathod.altcatalog",
