@@ -14,7 +14,7 @@ Use this button on a device with AltStore installed:
 ## RebornAgain for Youtube(uYou+ + other Tweaks)
 
 <a href="altstore://install?URL=https://github.com/meghrathod/AltCatalog/raw/764105699e4b490eb7baeae46f9f61fe1f1e6f71/RebornAgain(2.0).ipa">
-    <img src="./AltStore-Install.svg">
+    <img src="./Altstore-Install.svg">
 </a>
 
 **DESCRIPTION**
