@@ -13,6 +13,10 @@ Use this button on a device with AltStore installed:
 
 ## RebornAgain for Youtube(uYou+ + other Tweaks)
 
+<a href="altstore://install?URL=https://github.com/meghrathod/AltCatalog/raw/764105699e4b490eb7baeae46f9f61fe1f1e6f71/RebornAgain(2.0).ipa">
+    <img src="./AltStore-Install.svg">
+</a>
+
 **DESCRIPTION**
 
 Reddit user [u/ApprehensiveWill1](https://www.reddit.com/user/ApprehensiveWill1/) decided to immortalize YouTubeReborn as RebornAgain: a sideloadable app that even unjailbroken users could manage to install on their phones to take advantage of all of the unique YouTube Reborn features that made the tweak so popular with even more additions to your YouTube experience.
