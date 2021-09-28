@@ -62,3 +62,37 @@ RebornAgain is packed with the tweaks iSponsorBlock, YTUHD, uYou, YTClassicVideo
 - Hide the Cast button in the uYou settings if you can’t click on the OP button to bring up Reborn’s settings
 - You can bring back the Create button in uYou settings
 - #000000 in YouTube Reborn’s Color Changer for OLED Dark Mode
+
+<br>
+<br>
+
+## unc0ver
+
+<a href="altstore://install?URL=https://unc0ver.dev/downloads/6.2.0/15e18e455ca3971433261443a42355ee883a2092/unc0ver_Release_6.2.0.ipa">
+    <img src="./Altstore-Install.svg">
+</a>
+
+**DESCRIPTION**
+
+unc0ver is an advanced jailbreaking tool for iOS devices. Jailbreaking with unc0ver unlocks the true power of your iDevice. Customize the appearance of your device, gain full control over how your device operates, obtain access to hidden features of iOS, and more.
+
+Compatibility:
+* unc0ver supports iOS 11.0 through to iOS 14.3 (Excluding 13.5.1 and 13.3.1)
+
+Stability:
+* Utilizing the latest stable APT and Mobile Substrate, stability is guaranteed.
+
+Security:
+* Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.
+
+<br>
+<br>
+
+## Taurine
+
+<a href="altstore://install?URL=https://unc0ver.dev/downloads/6.2.0/15e18e455ca3971433261443a42355ee883a2092/unc0ver_Release_6.2.0.ipa">
+    <img src="./Altstore-Install.svg">
+</a>
+
+### DESCRIPTION
+Taurine is an iOS 14.0-14.3 jailbreak, utilizing Procursus and Libhooker.
