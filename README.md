@@ -11,35 +11,36 @@ Use this button on a device with AltStore installed:
 
 # About the included apps as of 30-08-2021:
 
-## RebornAgain for Youtube(uYou+ + other Tweaks)
+## uYouPlus for Youtube(uYou + other Tweaks)
 
-<a href="altstore://install?URL=https://github.com/meghrathod/AltCatalog/releases/download/v2.1/RebornAgain.2.1.ipa">
+<a href="altstore://install?URL=https://github.com/qnblackcat/uYouPlus/releases/download/v17.12.5-2.1/uYouPlus_17.12.5_2.1.ipa">
     <img src="./Altstore-Install.svg">
 </a>
 
 **DESCRIPTION**
 
-Reddit user [u/ApprehensiveWill1](https://www.reddit.com/user/ApprehensiveWill1/) decided to immortalize YouTubeReborn as RebornAgain: a sideloadable app that even unjailbroken users could manage to install on their phones to take advantage of all of the unique YouTube Reborn features that made the tweak so popular with even more additions to your YouTube experience.
-
-RebornAgain is packed with the tweaks iSponsorBlock, YTUHD, uYou, YTClassicVideoQuality, YTDisableUglySuggestions, YouAreThere, and YouPiP straight out the box for an enhanced display of features from all of the most revered developers behind all of your favorite tweaks.
+uYouPlus is packed with the tweaks iSponsorBlock, YTUHD, uYou, YTClassicVideoQuality, YTDisableUglySuggestions, YouAreThere, and YouPiP straight out the box for an enhanced display of features from all of the most revered developers behind all of your favorite tweaks.
 
 **FEATURES**
 
-- 4K Video Streaming
-- YouTube Reborn UI Color changer (Click the OP)
-- Set default Video Quality
-- Block Premium Alert
-- OLED Dark Mode
-- Playback Speed Controls
-- New swipe gestures
-- Remove certain tabs and app elements
-- Picture-In-Picture Support
-- Download Video and Audio in Up to 4K Resolution
-- Background Play
-- Classic Video Quality Styled Preferences
-- Absolutely No Ads or Sponsors
-- No “Video paused. Still watching?” Prompt During Longer Videos
-- Cleaner Video Suggestions and Even More
+uYou: uYou has a ton of features that I can't list them all. Visit here for more info!
+
+iSponsorBlock: Skips annoying sponsor ads inside videos. iSponsorBlock is based on SponsorBlock engine. Basically, this is the iOS version of the SponsorBlock extension.
+
+YouPiP: enable YouTube's native PiP. More options are in YouTube Settings - General.
+
+YTUHD: unlock VP9 codec and in effect, enables video quality of 2K and 4K. You can enable/disable YTUHD in YouTube Settings - Video quality preferences.
+
+And more...!
+YTClassicVideoQuality: since YouTube v16.xx, you need one more step to change the video quality. YTClassicVideoQuality brings back the old video quality selector, which is a lot better than the new one.
+
+YTNoHoverCards: offer an option to enable/disable the annoying suggested videos show up at the end of the videos.
+
+YTSystemAppearance: sync the YouTube theme (dark/light) with the system theme.
+
+YTNoCheckLocalNetwork: block the Local Network permission popup.
+
+YouRememberCaption: make YouTube remember your video caption setting (if not already).
   
 **CREDITS**
 
@@ -49,20 +50,7 @@ RebornAgain is packed with the tweaks iSponsorBlock, YTUHD, uYou, YTClassicVideo
 - Credit to MiRO92 for uYou 1.5
 - Credit to CrazyMind90 for YTDisableUglySuggestions 1.3
 - Credit to Al4ise for Azule on iOS
-- Credit to [u/ApprehensiveWill1](https://www.reddit.com/user/ApprehensiveWill1/)
-- Credit to testers u/el_zari, u/Accomplished_Ebb4493, u/marchino123, u/iVesuvian, and u/Ruptito
 - Sideload with AltStore and enjoy the app everyone.
-
-**APP NOTES**
-
-- YouTube Reborn’s Color Changer is now its only functional feature due to the YouTube app being updated and Reborn being EOL. Please use uYou for most of its other features
-- May crash for certain versions of iOS, but has been tested working on the iOS 15 beta and several iOS 14 versions
-- uYou Downloads not working through Appdb Pro
-- YTUHD may be bugged until updated for some people
-- Hide the Cast button in the uYou settings if you can’t click on the OP button to bring up Reborn’s settings
-- You can bring back the Create button in uYou settings
-- #000000 in YouTube Reborn’s Color Changer for OLED Dark Mode
-
 <br>
 <br>
 
