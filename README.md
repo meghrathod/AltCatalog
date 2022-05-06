@@ -5,7 +5,7 @@ This project is aimed at cataloging app sources for AltStore and will be updated
 Use this button on a device with AltStore installed:
 <br>
 <br>
-<a href="altstore://source?URL=https://altcatalog.meghrathod.tech/apps.json">
+<a href="altstore://source?URL=https://altcatalog.meghrathod.dev/apps.json">
     <img src="./AltStore-Add%20This%20Source-brightgreen.svg">
 </a>
 
